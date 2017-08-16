@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        StickyControlPanel
-// @namespace   clemson
+// @namespace   tigertracks
 // @description This makes the "control panel" (edit/link/subtask) stay at the top when scrolling
 // @include     https://ithelp.clemson.edu/MRcgi/MRTicketPage.pl*
 // @version     1

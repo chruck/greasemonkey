@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        TigerTracks
-// @namespace   clemson.edu
-// @description Login to TigerTracks ticketing system
+// @name        tigertracks
+// @namespace   tigertracks
+// @description Login to tigertracks ticketing system
 // @include     https://ithelp.clemson.edu/MRcgi/MRentrancePage.pl*
 // @version     1
 // @grant       none

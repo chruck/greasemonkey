@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        WorkspacePulldown
-// @namespace   clemson
+// @namespace   tigertracks
 // @description Always have the "You are in the ___ workspace" as a pulldown, not just when the workspace name gets clicked.  (From the 'onclick')
 // @include     https://ithelp.clemson.edu/*
 // @version     1

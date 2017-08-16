@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        ReloginTigerTracks
-// @namespace   clemson
+// @name        Relogintigertracks
+// @namespace   tigertracks
 // @description Clicks "Click here to log in again" on Tiger Tracks refresh page
 // @include     https://ithelp.clemson.edu/*
 // @version     1

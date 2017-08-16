@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        AckTicketIdle
-// @namespace   clemson
+// @namespace   tigertracks
 // @description Script to automatically acknowledge that I notice that I have been idle
 // @include https://ithelp.clemson.edu/MRcgi/MRconcurrentTimeoutWarning.pl*
 // @version     1

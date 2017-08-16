@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Defaults
-// @namespace   TigerTracks
+// @namespace   tigertracks
 // @description Defaults for tickets I create
 // @include     https://ithelp.clemson.edu/MRcgi/MRTicketPage.pl?MAJOR_MODE=CREATE*
 // @version     1
