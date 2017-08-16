@@ -6,6 +6,10 @@
 // @version     1
 // @grant       none
 // ==/UserScript==
+
+// NOTE:  This can be changed in the user's preferences under "Default
+//        Workspace"
+
 document.getElementById('Project').style.display = 'none';
 projSelect = document.getElementById('ProjectSelect');
 projSelect.style.display = '';
