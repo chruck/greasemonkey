@@ -8,10 +8,13 @@
 // ==/UserScript==
 
 GM_addStyle( "                          \
-#controlPanelHolder {                   \
+#controlPanelHolder, #StaticAreaDiv {   \
         position: sticky !important;    \
         top: 0px;                       \
         background-color: black;        \
         z-index: 10;                    \
+}                                       \
+#StaticAreaDiv {                        \
+        float: right;                   \
 }                                       \
              ");
